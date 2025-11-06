@@ -1,10 +1,8 @@
 # 📊 Exchange Info AI Agent
 
 A fully automated AI agent that:
-- Fetches the latest messages from multiple Telegram channels (exchange news).
+- Fetches the latest messages from multiple Telegram channels.
 - Translates and rewords the messages into **Malay** using Google Gemini AI.
-- Compares exchange names from the message against your Google Sheet.
-- If matched, adds the correct referral link from the Google Sheet.
 - Posts the translated and customized message into your Telegram channel.
 - Logs everything into a `results.json` file for audit and duplicate prevention.
 
@@ -74,11 +72,11 @@ Go to **GitHub > Settings > Secrets > Actions** and add these secrets:
 | `ACTIONS_PAT`             | Your GitHub Personal Access Token (for auto push) |
 
 ### 4️⃣ Google Sheet Structure Example
-| Name    | Category | Link                                                    | TelegramChannelLink                      |
-|---------|----------|---------------------------------------------------------|------------------------------------------|
-| Bybit   | CEX      | your-referral-link-here                                 | telegram-channel-link-here               |
-| MEXC    | CEX      | your-referral-link-here                                 | telegram-channel-link-here               |
-| Binance | CEX      | your-referral-link-here                                 | telegram-channel-link-here               |
+| Name    | Link                       |
+|---------|----------------------------|
+| Bybit   | telegram-channel-link-here |
+| MEXC    | telegram-channel-link-here |
+| Binance | telegram-channel-link-here |
 
 ---
 
@@ -98,7 +96,7 @@ Go to **GitHub > Settings > Secrets > Actions** and add these secrets:
 | Error                                                        | Cause & Solution                                                                                        |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | `can't parse entities` Telegram error                        | Happens due to broken Markdown. Fix: escape special characters or switch to HTML parse mode.            |
-| `ValueError: 'TelegramChannelLink' is not in list`           | Google Sheet header mismatch. Make sure header exactly matches `TelegramChannelLink`.                   |
+| `ValueError: 'TelegramChannelLink' is not in list`           | Google Sheet header mismatch. Make sure header exactly matches                   |
 | `EOFError: EOF when reading a line` on GitHub Actions run    | You attempted to generate `.session` in a non-interactive environment. Only generate `.session` locally.|
 
 ---
@@ -116,5 +114,5 @@ Built by: Aaqil Ahamad
 
 ---
 
-> Enjoy automated affiliate marketing with AI-powered translation & referral linking!
+
 
