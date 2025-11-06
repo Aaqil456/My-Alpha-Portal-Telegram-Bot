@@ -9,8 +9,6 @@ def send_telegram_message_html(translated_text, exchange_name=None, referral_lin
     safe_text = html.escape(translated_text)
 
     message_html = f"{safe_text}"
-    if referral_link:
-        message_html += f"\n\n👉 <a href=\"{referral_link}\">Daftar di {exchange_name}</a>"
 
     payload = {
         "chat_id": TELEGRAM_CHAT_ID,
@@ -33,8 +31,6 @@ def send_photo_to_telegram_channel(image_path, translated_caption, exchange_name
     # Build full caption
     safe_caption = html.escape(translated_caption)
 
-    if referral_link:
-        safe_caption += f"\n\n👉 <a href=\"{referral_link}\">Daftar di {exchange_name}</a>"
 
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
     with open(image_path, "rb") as photo_file:
