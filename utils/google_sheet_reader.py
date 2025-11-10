@@ -3,7 +3,7 @@ from requests.utils import quote
 
 def fetch_channels_from_google_sheet(sheet_id: str, api_key: str):
     # Cover rows 1–1000, then find the header row that contains Name & Link
-    range_name = "'api call'!A1:E1000"
+    range_name = "'api call'!A2:E1000"
     url = f"https://sheets.googleapis.com/v4/spreadsheets/{sheet_id}/values/{quote(range_name, safe='')}"
     resp = requests.get(url, params={"key": api_key}, timeout=20)
     data = resp.json()
