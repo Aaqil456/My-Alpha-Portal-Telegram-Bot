@@ -149,52 +149,44 @@ def send_telegram_message_html(
     referral_link: str | None = None,
     post_type: str | None = None,
 ):
-    """
-    Sends a (possibly long) message with Telegram HTML parse_mode.
-      - Converts **bold**, *italic*, [label](url) to <b>, <i>, <a>
-      - Escapes everything else
-      - Splits RAW text into 4096-safe chunks, then converts each chunk
-      - Optionally prefixes the message with [Type] from Google Sheet
-    """
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
-        print("❌ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set in environment.")
+        print("❌ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set.")
         return []
 
-    base_text = translated_text or ""
-
-    # Prefix with type once at the very beginning (e.g. [Alpha] ...)
-    if post_type:
-        base_text = f"[<b>{post_type}</b>]\n\n{base_text}"
-
-    raw_chunks = _split_for_telegram_raw(base_text, MESSAGE_LIMIT)
+    raw_chunks = _split_for_telegram_raw(translated_text or "", MESSAGE_LIMIT)
     url = f"{API_BASE}/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
 
     results = []
+
     for i, raw_chunk in enumerate(raw_chunks, 1):
-        # Convert each chunk to HTML AFTER splitting to avoid breaking tags across messages
+        
+        # Convert message body first (safe, escaped)
         safe_html = render_html_with_basic_md(raw_chunk)
+
+        # Inject TYPE TAG AFTER html conversion (so it does NOT get escaped)
+        if post_type:
+            type_tag = f"[<b>{post_type}</b>]\n\n"
+            safe_html = type_tag + safe_html
+
         payload = {
             "chat_id": TELEGRAM_CHAT_ID,
             "text": safe_html,
             "parse_mode": "HTML",
-            "disable_web_page_preview": False,  # set True if you don't want previews
+            "disable_web_page_preview": False,
         }
+
         try:
             r = requests.post(url, json=payload, timeout=20)
             results.append(r.json())
             if r.ok and r.json().get("ok"):
-                print(
-                    f"✅ Telegram message part {i}/{len(raw_chunks)} sent "
-                    f"(len={len(raw_chunk)} raw)."
-                )
+                print(f"✅ Text message part {i}/{len(raw_chunks)} sent.")
             else:
-                print(
-                    f"❌ Telegram send error part {i}/{len(raw_chunks)}: {r.text}"
-                )
+                print(f"❌ Telegram error: {r.text}")
         except Exception as e:
-            print(f"❌ Telegram send exception part {i}/{len(raw_chunks)}: {e}")
+            print(f"❌ Telegram exception: {e}")
 
     return results
+
 
 
 def send_photo_to_telegram_channel(
@@ -204,24 +196,13 @@ def send_photo_to_telegram_channel(
     referral_link: str | None = None,
     post_type: str | None = None,
 ):
-    """
-    Sends a photo with caption (<=1024 VISIBLE chars). If caption is longer,
-    sends the remainder as follow-up 4096-safe text messages.
-      - Uses the same Markdown→HTML conversion
-      - Splits RAW caption first, then converts each part
-      - Optionally prefixes the caption with [Type]
-    """
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
-        print("❌ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set in environment.")
+        print("❌ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set.")
         return None
 
     raw_caption = translated_caption or ""
 
-    # Prefix the caption with the type (only once, for the first chunk)
-    if post_type:
-        raw_caption = f"[<b>{post_type}</b>]\n\n{raw_caption}"
-
-    # Split RAW caption by visible-text limit (safer than counting HTML chars)
+    # Split caption
     if len(raw_caption) <= CAPTION_LIMIT:
         head_raw = raw_caption
         tail_raw = ""
@@ -229,44 +210,40 @@ def send_photo_to_telegram_channel(
         head_raw = raw_caption[:CAPTION_LIMIT]
         tail_raw = raw_caption[CAPTION_LIMIT:]
 
-    # Convert the head to HTML for caption
-    caption_head_html = render_html_with_basic_md(head_raw)
+    # Convert caption head
+    safe_caption_html = render_html_with_basic_md(head_raw)
 
+    # Insert TYPE TAG after conversion
+    if post_type:
+        type_tag = f"[<b>{post_type}</b>]\n\n"
+        safe_caption_html = type_tag + safe_caption_html
+
+    # Send photo
     url = f"{API_BASE}/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
+
     try:
         with open(image_path, "rb") as photo_file:
             files = {"photo": photo_file}
             data = {
                 "chat_id": TELEGRAM_CHAT_ID,
-                "caption": caption_head_html,
+                "caption": safe_caption_html,
                 "parse_mode": "HTML",
             }
             r = requests.post(url, data=data, files=files, timeout=30)
 
-        if r.ok and r.json().get("ok"):
-            print(f"✅ Photo sent. Caption raw-len={len(head_raw)}.")
-        else:
-            print(f"❌ Failed to send photo: {r.text}")
+        if not (r.ok and r.json().get("ok")):
+            print(f"❌ Error sending photo: {r.text}")
 
-        # Remainder of caption as regular messages (split raw -> then convert)
+        # Send remaining caption text (without type tag)
         if tail_raw:
-            print(
-                f"[INFO] Sending caption remainder as text "
-                f"(raw-len={len(tail_raw)})."
-            )
-            # IMPORTANT: we don't pass post_type again, so the type tag
-            # only appears once at the beginning.
             send_telegram_message_html(
-                tail_raw,
-                exchange_name=exchange_name,
-                referral_link=referral_link,
-                post_type=None,
+                translated_text=tail_raw,
+                post_type=None  # Don't repeat type in the tail
             )
 
         return r.json()
-    except FileNotFoundError:
-        print(f"❌ Image not found: {image_path}")
-    except Exception as e:
-        print(f"❌ Telegram photo send exception: {e}")
 
-    return None
+    except Exception as e:
+        print(f"❌ Telegram photo exception: {e}")
+        return None
+
