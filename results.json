@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-03T18:37:50.100349",
+    "timestamp": "2025-12-03T19:26:50.690514",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -1352,6 +1352,14 @@
             "translated_text": "\ud83d\udc4a **Perp DEX lawan CEX: Jurang Tersembunyi yang Merugikan Duit Kau**\n\nPerp DEX ni bukan lagi sekadar \"eksperimen pelik-pelik\". Dengan jumlah bulanan cecah $1.3T, platform macam Hyperliquid, Aster, dan Lighter sekarang kuasai 70% pasaran derivatif on-chain.\n\nHyperliquid sekarang dah setanding CEX besar dengan kelajuan pelaksanaan yang sama, yuran jauh lebih rendah, self-custody, dan prestasi stabil kat L1 dia sendiri, sokong hampir 200 pasangan perp dan volum harian berbilion.\n\n__Likuiditi memang banyak. Yuran pun murah. Tapi ada satu masalah besar.__\n\n**Jurang Infrastruktur**. Walaupun institusi guna algoritma tersendiri dan enjin risiko, kebanyakan pedagang runcit masih lagi klik butang kat web interface biasa.\n\n\u2022 Yang Pro: Skrip, automasi multi-wallet, alat risiko.\n\n\u2022 Yang Runcit: Pelaksanaan manual, takde trailing stop, main redah je.\n\n\u2022 Ini pasaran PvP, dan tanpa alat yang betul, kau berjuang macam mendaki gunung.\n\nKami dah buat kajian mendalam tentang keadaan semasa perdagangan Perp DEX, bandingkan:\n\n\u2795 **Hyperliquid lawan Binance:** Pecahan ciri demi ciri.\n\u2795 **Alat yang merapatkan jurang:** Hummingbot, Signum, goodcryptoX, dan lain-lain.\n\u2795 **Masa Depan:** Kenapa infrastruktur adalah gangguan sebenar tahun 2025.\n\n__Jangan biar bot makan duit kau__. Ketahui cara dapatkan pelaksanaan setaraf CEX dengan keselamatan self-custody.\n\n**Baca Kajian Mendalam penuh** \u27a1 https://coinlaunch.space/blog/perp-dexs-vs-cexs/\n\n\ud83d\udcb5 [**CoinLaunch Space**](https://t.me/coinlaunch_space) **| \ud83d\udcb5 [**CoinLaunch Space**](https://x.com/CoinLaunchSpace)",
             "date": "2025-12-03 18:08:22+00:00",
             "message_id": 532
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[Simcluster](https://cryptorank.io/ico/simcluster) **$2M Funding Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Simcluster](https://cryptorank.io/ico/simcluster) is an AI social network where ideas are shaped into interconnected \"concepts,\" and their views are boosted through an internal currency.\u200b\n\n\ud83e\udd1d **Investor:**\nTBD\n\n\ud83d\udc49 cryptorank.io/ico/simcluster",
+            "translated_text": "[Simcluster](https://cryptorank.io/ico/simcluster) dapat **$2Juta Dana**\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[Simcluster](https://cryptorank.io/ico/simcluster) ni rangkaian sosial AI di mana idea dibentuk jadi \"konsep\" yang saling berkaitan, dan pandangan diorang dinaikkan melalui mata wang dalaman.\n\n\ud83e\udd1d **Pelabur:**\nAkan Diumumkan\n\n\ud83d\udc49 cryptorank.io/ico/simcluster",
+            "date": "2025-12-03 19:15:31+00:00",
+            "message_id": 2778
         }
     ]
 }
