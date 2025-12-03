@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-03T11:22:56.599217",
+    "timestamp": "2025-12-03T12:53:44.240162",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -1296,6 +1296,14 @@
             "translated_text": "[Gonka](https://cryptorank.io/ico/gonka) dapat **Pusingan Dana $50 Juta**\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[Gonka](https://cryptorank.io/ico/gonka) ni rangkaian pengkomputeran AI terdesentralisasi. Orang ramai boleh bagi hardware GPU diorang untuk jalankan latihan dan tugas-tugas inference.\n\n\ud83e\udd1d **Pelabur:**\n[Bitfury](https://cryptorank.io/funds/bitfury)\n\n\ud83d\udc49 cryptorank.io/ico/gonka",
             "date": "2025-12-03 11:20:42+00:00",
             "message_id": 2773
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "Gleec **has acquired **[**Komodo**](https://cryptorank.io/ico/komodo) \u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Komodo](https://cryptorank.io/ico/komodo) is a blockchain-powered open-source platform that describes itself as a \u201cworkshop\u201d for Web3 technology development.\n\n\ud83e\udd1d **Acquired by:**\n[Gleec](https://cryptorank.io/funds/gleec) \n\n\ud83d\udc49 https://cryptorank.io/ico/komodo",
+            "translated_text": "Gleec **dah beli** [**Komodo**](https://cryptorank.io/ico/komodo) \u26a1\ufe0f\n\n\ud83d\udcd1 **Info:**\n[Komodo](https://cryptorank.io/ico/komodo) ni platform *open-source* berasaskan *blockchain*. Diorang kata, Komodo ni macam \"bengkel\" untuk pembangunan teknologi Web3.\n\n\ud83e\udd1d **Dibeli oleh:**\n[Gleec](https://cryptorank.io/funds/gleec)\n\n\ud83d\udc49 https://cryptorank.io/ico/komodo",
+            "date": "2025-12-03 12:08:55+00:00",
+            "message_id": 2774
         }
     ]
 }
