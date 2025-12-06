@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-06T15:21:50.113077",
+    "timestamp": "2025-12-06T15:52:57.828731",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -1648,6 +1648,14 @@
             "translated_text": "Gondor dapat **$2.5 juta untuk pusingan pra-benih**\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\nGondor ni protokol yang membolehkan korang pinjam duit guna posisi korang kat Polymarket.\n\n\ud83e\udd1d **Pelabur:**\nMaven 11 Capital, Castle Island Ventures, dan Prelude\n\n\ud83d\udc49 cryptorank.io/ico/gondor",
             "date": "2025-12-06 15:07:17+00:00",
             "message_id": 2793
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAITLWk0UEDgYq_Trg968BPOO8zxyJnFAAI7kQACdEihSVxOpagbwIU3NgQ)**Top 7 Funding Rounds of The Past Week**\n\n[CoinMENA](https://cryptorank.io/ico/coinmena) - $240M\n[Canton Network](https://cryptorank.io/ico/digital-asset) - $50M\n[Gonka](https://cryptorank.io/ico/gonka) - $50M\n[Portal](https://cryptorank.io/ico/portal-defi) - $25M\n[Ostium](https://cryptorank.io/ico/ostium-labs) - $20M\n[Fin (Prev. TipLink)](https://cryptorank.io/ico/fin) - $17M\n[BitStack](https://cryptorank.io/ico/bitstack) - $15M\n\n\ud83d\udc49 http://cryptorank.io/funding-rounds",
+            "translated_text": "**7 Projek Pendanaan Tertinggi Minggu Lepas**\n\nCoinMENA - $240 juta\nCanton Network - $50 juta\nGonka - $50 juta\nPortal - $25 juta\nOstium - $20 juta\nFin (Dulu TipLink) - $17 juta\nBitStack - $15 juta\n\n\ud83d\udc49 http://cryptorank.io/funding-rounds",
+            "date": "2025-12-06 15:48:44+00:00",
+            "message_id": 2794
         }
     ]
 }
