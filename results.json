@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-08T08:37:43.371498",
+    "timestamp": "2025-12-08T10:34:59.256286",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -1704,6 +1704,14 @@
             "translated_text": "",
             "date": "2025-12-07 15:05:47+00:00",
             "message_id": 11664
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAITQ2k2pDFRHtcHfuLxpMxXmlOj9aSEAAJRjAACIZa4SZ9Syze-b-bWNgQ)[Asgard Finance](https://cryptorank.io/ico/asgardfi) **$2.2M Seed Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Asgard Finance](https://cryptorank.io/ico/asgardfi) is a platform for opening credit accounts, borrowing with collateral, and managing margin positions.\n\n\ud83e\udd1d **Investors:**\n[Robot Ventures](https://cryptorank.io/funds/robot-ventures) (Lead), [Solana Ventures](https://cryptorank.io/funds/solana-ventures), [Presto Labs](https://cryptorank.io/funds/presto-labs), [Colosseum](https://cryptorank.io/funds/colosseum), [Primal Capital](https://cryptorank.io/funds/primal-capital), [Dead King Society](https://cryptorank.io/funds/dead-king-society), and others.\n\n\ud83d\udc49 cryptorank.io/ico/asgardfi",
+            "translated_text": "",
+            "date": "2025-12-08 10:11:16+00:00",
+            "message_id": 2795
         }
     ]
 }
