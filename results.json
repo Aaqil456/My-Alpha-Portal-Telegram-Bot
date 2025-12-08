@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-08T12:53:34.900946",
+    "timestamp": "2025-12-08T13:38:59.058624",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -1736,6 +1736,14 @@
             "translated_text": "",
             "date": "2025-12-08 12:00:01+00:00",
             "message_id": 11667
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAITamk20NN6LBttNz93uJaNdtPy10_NAAIijwACIZa4Se3jrD4SHFPrNgQ)[Crown](https://cryptorank.io/ico/crown-brl) **$13.5M Series A Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Crown](https://cryptorank.io/ico/crown-brl) is a financial technology company that issues BRLV, a stablecoin linked to the Brazilian real (BRL).\n\n\ud83e\udd1d **Investor:**\n[Paradigm](https://cryptorank.io/funds/paradigm)\n\n\ud83c\udff7 **Valuation:** $90M",
+            "translated_text": "",
+            "date": "2025-12-08 13:21:58+00:00",
+            "message_id": 2797
         }
     ]
 }
