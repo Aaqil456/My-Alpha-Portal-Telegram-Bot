@@ -40,13 +40,47 @@ async def main():
         )
 
         for msg in messages:
+            original_text = msg["text"] or ""
+
             # Skip if this text was already posted before
-            if msg["text"] in posted_messages:
+            if original_text in posted_messages:
                 print(f"⚠️ Skipping duplicate message ID {msg['id']} from {channel_username}")
                 continue
 
+            # ================== DEBUG & TRANSLATE (TEMPAT MASALAH) ================== #
+            print("\n=== DEBUG TELEGRAM MESSAGE ===")
+            print("CHANNEL      :", channel_username)
+            print("TYPE         :", channel_type)
+            print("MESSAGE ID   :", msg["id"])
+            print("ORIGINAL TEXT:", repr(original_text))
+            print("==============================")
+
             # Translate with Gemini (your existing function)
-            translated = translate_text_gemini(msg["text"])
+            try:
+                translated = translate_text_gemini(original_text)
+            except Exception as e:
+                print(f"❌ translate_text_gemini error: {e}")
+                translated = ""
+
+            print("TRANSLATED   :", repr(translated))
+            print("LEN ORI / TR :", len(original_text), "/", len(translated))
+            print("==============================\n")
+
+            # 👉 GUARD PENTING: JANGAN SEND KALAU TERJEMAHAN KOSONG
+            if not translated or not translated.strip():
+                print("❌ Translated text kosong – SKIP SEND untuk message ini.")
+                # Log juga dalam result supaya kau nampak dalam results.json kalau perlu
+                result_output.append({
+                    "channel_link": channel_link,
+                    "channel_type": channel_type,
+                    "original_text": original_text,
+                    "translated_text": translated,
+                    "date": msg["date"],
+                    "message_id": msg["id"],
+                    "note": "SKIPPED_EMPTY_TRANSLATION",
+                })
+                continue
+            # ================== HABIS BAHAGIAN MASALAH ================== #
 
             if msg["has_photo"]:
                 image_path = f"photo_{msg['id']}.jpg"
@@ -55,7 +89,7 @@ async def main():
                 async with TelegramClient("telegram_session", telegram_api_id, telegram_api_hash) as client:
                     await client.download_media(msg["raw"], image_path)
 
-                # ✅ Send photo with [Type] prefix in caption
+                # ✅ Send photo dengan [Type] prefix dalam caption
                 send_photo_to_telegram_channel(
                     image_path=image_path,
                     translated_caption=translated,
@@ -65,7 +99,7 @@ async def main():
                 # Clean up local file
                 os.remove(image_path)
             else:
-                # ✅ Send text-only message with [Type] prefix
+                # ✅ Send text-only message dengan [Type] prefix
                 send_telegram_message_html(
                     translated_text=translated,
                     post_type=channel_type   # <<< IMPORTANT
@@ -75,7 +109,7 @@ async def main():
             result_output.append({
                 "channel_link": channel_link,
                 "channel_type": channel_type,
-                "original_text": msg["text"],
+                "original_text": original_text,
                 "translated_text": translated,
                 "date": msg["date"],
                 "message_id": msg["id"],
