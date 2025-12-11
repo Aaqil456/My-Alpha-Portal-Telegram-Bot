@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-11T15:17:14.852687",
+    "timestamp": "2025-12-11T15:46:14.111883",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -201,6 +201,14 @@
             "date": "2025-12-11 15:05:37+00:00",
             "message_id": 6546,
             "note": "SKIPPED_EMPTY_TRANSLATION"
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAIUjmk65GwW4CmTofwbrpqKVtJXIoCKAALkhQACtZ_ZSQY18CFleByoNgQ)Nexo **has acquired **[Buenbit](https://cryptorank.io/ico/buenbit) \u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Buenbit](https://cryptorank.io/ico/buenbit) is an Argentine financial technology platform and centralized cryptocurrency exchange.\n\n\ud83e\udd1d **Acquired by:**\n[Nexo](https://cryptorank.io/funds/nexocorp)\n\n\ud83d\udc49 https://cryptorank.io/ico/buenbit",
+            "translated_text": "Nexo telah mengambil alih Buenbit \u26a1\ufe0f\n\n\ud83d\udcd1 Tentang:\nBuenbit adalah platform teknologi kewangan dari Argentina dan pertukaran mata wang kripto berpusat.\n\n\ud83e\udd1d Diambil alih oleh:\nNexo\n\n\ud83d\udc49 https://cryptorank.io/ico/buenbit",
+            "date": "2025-12-11 15:34:21+00:00",
+            "message_id": 2815
         }
     ]
 }
