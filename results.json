@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-17T14:19:12.013377",
+    "timestamp": "2025-12-17T15:22:23.972035",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -676,6 +676,14 @@
             "date": "2025-12-17 14:04:42+00:00",
             "message_id": 2837,
             "note": "SKIPPED_EMPTY_TRANSLATION"
+        },
+        {
+            "channel_link": "https://t.me/coinlaunch_space",
+            "channel_type": "Kempen Kripto",
+            "original_text": "\ud83d\udd25** Hyperliquid Burning Model**\n\nThe [Hyperliquid ](https://coinlaunch.space/projects/hyperliquid/)team has [proposed](https://t.me/hyperliquid_announcements/490) a validator vote to formally recognize all $HYPE accumulated in the Assistance Fund as burned.\n\nTrading fees are automatically converted into HYPE and sent to a system address with no private key, making the tokens permanently inaccessible without a hard fork. The vote establishes social consensus to treat these tokens as burned and never unlock them via protocol upgrades.\n\n\u2753**What this means:**\n\n- Trading volume directly reduces HYPE supply;\n\n- More activity \u2192 less HYPE in circulation;\n\n- Deflation is built into the protocol\n\n__This doesn\u2019t create short-term demand, but it strengthens HYPE\u2019s long-term fundamentals by making the asset increasingly scarce as the platform grows.__\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** |  ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
+            "translated_text": "\ud83d\udd25** Model Pembakaran Hyperliquid**\n\nPasukan [Hyperliquid ](https://coinlaunch.space/projects/hyperliquid/)dah [cadangkan](https://t.me/hyperliquid_announcements/490) undian validator untuk secara rasmi mengiktiraf semua $HYPE yang terkumpul dalam Dana Bantuan sebagai dibakar.\n\nYuran dagangan secara automatik ditukar kepada HYPE dan dihantar ke alamat sistem tanpa kunci peribadi, menjadikan token-token tu tak boleh diakses selama-lamanya tanpa hard fork. Undian ni mewujudkan persetujuan sosial untuk menganggap token-token ni dah dibakar dan takkan dibuka semula melalui peningkatan protokol.\n\n\u2753**Maksudnya apa:**\n\n- Jumlah dagangan secara langsung mengurangkan bekalan HYPE;\n\n- Lagi banyak aktiviti \u2192 lagi kurang HYPE dalam edaran;\n\n- Deflasi dah terbina dalam protokol\n\n__Ini tak cipta permintaan jangka pendek, tapi ia mengukuhkan asas jangka panjang HYPE dengan menjadikan aset tu makin sukar didapati bila platform tu berkembang.__\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** |  ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
+            "date": "2025-12-17 15:19:24+00:00",
+            "message_id": 547
         }
     ]
 }
