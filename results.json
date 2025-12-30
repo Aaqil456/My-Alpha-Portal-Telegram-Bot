@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-30T08:50:43.173440",
+    "timestamp": "2025-12-30T09:44:55.691079",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -1638,6 +1638,14 @@
             "translated_text": "\ud83d\udca5 **Lighter (****$LIT****) \u2014 Dagangan Dah Bermula**\n\nPasukan [Lighter](https://coinlaunch.space/projects/lighter/) dah mula agihkan token ke akaun pengguna dan juga dah [umumkan](https://x.com/Lighter_xyz/status/2005862682608472263?s=20) tentang tokenomics serta butiran penting lain.\n\n\ud83d\udd0d **Butiran:**\n- 1 mata = 20 $LIT;\n\n- 50% daripada bekalan diperuntukkan untuk komuniti, dengan 25% untuk airdrop pertama;\n\n- Pasukan (26%) dan pelabur (24%) ada tempoh 'cliff' 1 tahun, diikuti dengan 'vesting' secara linear selama 3 tahun;\n\n- Hasil DEX boleh dijejak secara masa nyata dan akan diagihkan antara 'buyback' dan pertumbuhan, bergantung pada keadaan pasaran.\n\nDagangan dah pun bermula, dengan harga sekitar $2.5: \ud83d\udc49 https://app.lighter.xyz/trade/LIT_USDC\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
             "date": "2025-12-30 08:45:14+00:00",
             "message_id": 554
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAIX_WlTm9jabz3unJUvHt0p553YhxkbAAKmigACbiGZSixY9RN_6TEDOAQ)[Meta](https://cryptorank.io/funds/meta) has acquired Manus \u26a1\ufe0f\n\n\ud83d\udcd1 About:\nManus is a company that builds advanced, general-purpose autonomous AI agents.\n\n\ud83e\udd1d Acquired by:\n[Meta](https://cryptorank.io/funds/meta)\n\n\ud83d\udc49 cryptorank.io/funds/meta",
+            "translated_text": "[Meta](https://cryptorank.io/funds/meta) dah ambil alih Manus \u26a1\ufe0f\n\n\ud83d\udcd1 Tentang:\nManus ni syarikat yang buat agen AI autonomi yang canggih dan serba guna.\n\n\ud83e\udd1d Dibeli oleh:\n[Meta](https://cryptorank.io/funds/meta)\n\n\ud83d\udc49 cryptorank.io/funds/meta",
+            "date": "2025-12-30 09:31:28+00:00",
+            "message_id": 2867
         }
     ]
 }
