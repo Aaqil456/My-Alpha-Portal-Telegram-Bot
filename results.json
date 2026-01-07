@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-07T13:51:56.706343",
+    "timestamp": "2026-01-07T15:17:21.987538",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -1982,6 +1982,14 @@
             "translated_text": "\ud83d\udcc9** Giliran keluar (exit queue) staking Ethereum dah kosong!**\n\nGiliran untuk *unstaking* (keluar) $ETH dah tak ada, tapi giliran untuk *staking* (masuk) pula melonjak naik sampai **~1.4 juta $ETH ($4.9 bilion)**.\n\n\u2753** Apa maksudnya untuk kita:**\n- Tak ada tekanan jualan segera dari validator yang keluar;\n- Permintaan tinggi untuk *staking* ETH;\n- Peserta sanggup kunci ETH untuk jangka masa panjang, mengharapkan pulangan dan/atau kenaikan harga.\n\n__Ketidakseimbangan dalam giliran validator macam ni selalunya menunjukkan sentimen *bullish* dan kurangnya tekanan penurunan harga__.\n\nSUMBER: [https://www.theblock.co/data/on-chain-metrics/ethereum/ethereum-validator-queue](https://www.theblock.co/data/on-chain-metrics/ethereum/ethereum-validator-queue)\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
             "date": "2026-01-07 13:39:18+00:00",
             "message_id": 558
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAIY32ledFeQO7yiSEPHKYyK46IY0zfFAAJYjAACkOv5SoK7EPUtwSe2OAQ)[Fireblocks](https://cryptorank.io/funds/fireblocks/rounds) **has acquired **[Tres Finance](https://cryptorank.io/ico/tres-finance) \u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\nTres is a financial accounting software platform for web3 companies.\n\n\ud83e\udd1d **Acquired by:**\n[Fireblocks](https://cryptorank.io/funds/fireblocks) is an enterprise-grade platform delivering a secure infrastructure. \n\n\ud83d\udc49 https://cryptorank.io/ico/tres-finance",
+            "translated_text": "[Fireblocks](https://cryptorank.io/funds/fireblocks/rounds) dah ambil alih [Tres Finance](https://cryptorank.io/ico/tres-finance) \u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\nTres ni adalah platform perisian perakaunan kewangan untuk syarikat web3.\n\n\ud83e\udd1d **Diambil alih oleh:**\n[Fireblocks](https://cryptorank.io/funds/fireblocks) ni platform bertaraf perusahaan yang menyediakan infrastruktur yang selamat.\n\n\ud83d\udc49 https://cryptorank.io/ico/tres-finance",
+            "date": "2026-01-07 14:58:44+00:00",
+            "message_id": 2881
         }
     ]
 }
