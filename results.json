@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-13T11:33:50.265939",
+    "timestamp": "2026-01-13T13:56:22.222025",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -2358,6 +2358,14 @@
             "translated_text": "**Pusingan Dana $1 Bilion L3Harris\u26a1\ufe0f**\n\n\ud83d\udcd1 **Tentang:**\nL3Harris adalah syarikat pertahanan dan aeroangkasa yang membina sistem komunikasi, pengawasan, dan elektronik untuk pelanggan kerajaan dan ketenteraan.\n\n\ud83e\udd1d **Pelabur:**\nPentagon\n\n\ud83d\udc49 cryptorank.io/funding-rounds",
             "date": "2026-01-13 11:31:30+00:00",
             "message_id": 2898
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "**Polygon Labs has acquired **[Coinme](https://cryptorank.io/ico/coinme)** \u26a1\ufe0f\n**\n\ud83d\udcd1 **About:**\n[Coinme](https://cryptorank.io/ico/coinme) is a leading digital currency exchange on a mission to make digital currency more accessible for everyone.\n\n\ud83e\udd1d **Acquired by:**\n[Polygon](https://cryptorank.io/price/matic-network)\n\n\ud83d\udc49 https://cryptorank.io/ico/coinme",
+            "translated_text": "**Polygon Labs dah ambil alih [Coinme](https://cryptorank.io/ico/coinme) \u26a1\ufe0f**\n\n\ud83d\udcd1 **Tentang:**\n[Coinme](https://cryptorank.io/ico/coinme) adalah pertukaran mata wang digital terkemuka dengan misi untuk menjadikan mata wang digital lebih mudah diakses oleh semua orang.\n\n\ud83e\udd1d **Diambil alih oleh:**\n[Polygon](https://cryptorank.io/price/matic-network)\n\n\ud83d\udc49 https://cryptorank.io/ico/coinme",
+            "date": "2026-01-13 13:51:03+00:00",
+            "message_id": 2900
         }
     ]
 }
