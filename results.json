@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-13T13:56:22.222025",
+    "timestamp": "2026-01-13T14:20:13.989914",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -2366,6 +2366,14 @@
             "translated_text": "**Polygon Labs dah ambil alih [Coinme](https://cryptorank.io/ico/coinme) \u26a1\ufe0f**\n\n\ud83d\udcd1 **Tentang:**\n[Coinme](https://cryptorank.io/ico/coinme) adalah pertukaran mata wang digital terkemuka dengan misi untuk menjadikan mata wang digital lebih mudah diakses oleh semua orang.\n\n\ud83e\udd1d **Diambil alih oleh:**\n[Polygon](https://cryptorank.io/price/matic-network)\n\n\ud83d\udc49 https://cryptorank.io/ico/coinme",
             "date": "2026-01-13 13:51:03+00:00",
             "message_id": 2900
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAIac2lmUoW5uTDFFkY7yIGER4bU57ZtAAJ7kgACXL8xSz4JS57SwWsyOAQ)[Genius](https://cryptorank.io/ico/tradegenius) **Funding Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Genius](https://cryptorank.io/ico/tradegenius) is a non-custodial digital trading platform launched by Shuttle Labs.\n\n\ud83e\udd1d **Investor:**\n[YZi Labs (Prev. Binance Labs)](https://cryptorank.io/funds/binance-labs)\n\n\ud83d\udc49 cryptorank.io/ico/tradegenius",
+            "translated_text": "[Genius](https://cryptorank.io/ico/tradegenius) **Pusingan Pendanaan**\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[Genius](https://cryptorank.io/ico/tradegenius) adalah platform dagangan digital tanpa jagaan yang dilancarkan oleh Shuttle Labs.\n\n\ud83e\udd1d **Pelabur:**\n[YZi Labs (Dahulu Binance Labs)](https://cryptorank.io/funds/binance-labs)\n\n\ud83d\udc49 cryptorank.io/ico/tradegenius",
+            "date": "2026-01-13 14:11:26+00:00",
+            "message_id": 2902
         }
     ]
 }
