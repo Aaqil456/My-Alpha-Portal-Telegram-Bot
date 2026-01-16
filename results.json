@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-16T16:52:26.608331",
+    "timestamp": "2026-01-16T18:21:58.824253",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -2670,6 +2670,14 @@
             "translated_text": "[City Protocol ](https://cryptorank.io/ico/cooking-city)**Pusingan Pembiayaan**\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[City Protocol](https://cryptorank.io/ico/cooking-city) sedang membangunkan platform untuk memudahkan penciptaan, perdagangan, dan pengewangan harta intelek (IP).\n\n\ud83e\udd1d **Pelabur:**\n[071labs](https://cryptorank.io/funds/071labs)\n\n\ud83d\udc49 cryptorank.io/ico/cooking-city",
             "date": "2026-01-16 16:26:13+00:00",
             "message_id": 2918
+        },
+        {
+            "channel_link": "https://t.me/coinlaunch_space",
+            "channel_type": "Kempen Kripto",
+            "original_text": "\ud83d\udeab **X Changes API Policy - Is the InfoFi Model Over?**\n\nX has[ updated](https://x.com/nikitabier/status/2011825522817270230) its developer API policy, banning apps that reward users for posting (InfoFi) due to excessive AI spam and low-quality replies. API access has already been revoked, impacting projects like [Kaito](https://coinlaunch.space/projects/kaito/), Cookie DAO, [Wallchain](https://coinlaunch.space/projects/wallchain/), Bantr, Mirra, and XEET.\n\nWe will no longer allow apps that reward users for posting on X (aka \u201cinfofi\u201d). This has led to a tremendous amount of AI slop & reply spam on the platform.\n\nFollowing the update, Cookie DAO shut down Snaps, Kaito sunset Yaps and launched Kaito Studio, while the KAITO token dropped ~20% after its Yapper community was banned.\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
+            "translated_text": "\ud83d\udeab **X Ubah Polisi API - Adakah Model InfoFi Sudah Tamat?**\n\nX dah [kemas kini](https://x.com/nikitabier/status/2011825522817270230) polisi API pembangunnya, mengharamkan aplikasi yang beri ganjaran kepada pengguna untuk *posting* (InfoFi) sebab terlalu banyak spam AI dan balasan yang kurang berkualiti. Akses API pun dah ditarik balik, dan ini beri kesan pada projek macam [Kaito](https://coinlaunch.space/projects/kaito/), Cookie DAO, [Wallchain](https://coinlaunch.space/projects/wallchain/), Bantr, Mirra, dan XEET.\n\nKami takkan benarkan lagi aplikasi yang beri ganjaran kepada pengguna untuk *posting* di X (atau dikenali sebagai \u201cinfofi\u201d). Ini dah menyebabkan banyak sangat *slop* AI & spam balasan di platform tu.\n\nLepas kemas kini ni, Cookie DAO dah tutup Snaps, Kaito pula hentikan Yaps dan lancarkan Kaito Studio. Sementara tu, token KAITO jatuh lebih kurang 20% lepas komuniti Yapper dia diharamkan.\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
+            "date": "2026-01-16 17:55:13+00:00",
+            "message_id": 565
         }
     ]
 }
