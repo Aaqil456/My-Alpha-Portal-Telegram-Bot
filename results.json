@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-12T17:43:20.337785",
+    "timestamp": "2026-02-12T20:50:34.157550",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -4768,6 +4768,14 @@
             "translated_text": "\ud83d\udcc9 [**AZTEC**](https://coinlaunch.space/projects/aztec-network/)** Ringkasan Penyenaraian**\n\nHari ini, $AZTEC dah disenaraikan secara rasmi di bursa terpusat. ROI dari pusingan jualan berbeza (melalui [Coinlist](https://coinlaunch.space/events-rounds/aztec-network-ico-on-coinlist/) atau [lelongan](https://sale.aztec.network/auction)) sekarang ni sekitar **-20% hingga -30%**.\n\nSekadar nak ingatkan, Aztec dah berjaya kumpul lebih **$160 juta** dari pelabur macam a16z, Paradigm, ConsenSys, dan lain-lain.\n\n\ud83d\udd16 Token yang dibeli dalam [lelongan](https://sale.aztec.network/auction) dah boleh dituntut sekarang melalui pautan rasmi.\n\nAztec Network adalah L2 yang mengutamakan privasi di Ethereum, yang membolehkan pengguna dan pembangun laksanakan kontrak pintar dan transaksi dengan kerahsiaan penuh menggunakan zero-knowledge proofs sambil mengekalkan keselamatan tahap Ethereum.\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
             "date": "2026-02-12 17:26:21+00:00",
             "message_id": 581
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAIgp2mOMuqqumuVaVt-FoCg7YfwwdrYAALrnAACsj9xSL2XHVOzK-E7OgQ)\ud83d\udd25JUST IN: Anthropic raised $30B in a Series G round, valuing it at $380B post-money, one of the largest private AI financings yet.",
+            "translated_text": "\ud83d\udd25BERITA TERKINI: Anthropic berjaya mengumpul dana $30 bilion dalam pusingan pembiayaan Siri G, menjadikan nilai syarikat itu $380 bilion selepas pelaburan. Ini adalah salah satu pembiayaan AI persendirian terbesar setakat ini.",
+            "date": "2026-02-12 20:07:17+00:00",
+            "message_id": 3003
         }
     ]
 }
