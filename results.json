@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-18T12:42:08.721365",
+    "timestamp": "2026-02-18T13:54:20.996598",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -5144,6 +5144,14 @@
             "translated_text": "**1inch \u2014 Lebih daripada sekadar**[ ](https://img1.teletype.in/files/49/cd/49cd4ba3-7615-4bcb-af2f-7c4b8612934d.jpeg)**DeFi** \ud83d\udc4d\n\nRamai lagi yang ingat [1inch](https://x.com/1inch) ni cuma aplikasi untuk swap. Tapi sebenarnya, ia adalah hab kecairan global yang menjadi tunjang kepada separuh daripada ekosistem DeFi.\n\n1inch mengagregasi kecairan dari lebih 500 sumber (DEX, AMM, pool) dalam lebih 12 blockchain dan berfungsi sebagai infrastruktur untuk projek-projek lain.\n\n**Kerjasama dan Integrasi:**\n\ud83d\udc4d[Ondo Finance](https://x.com/OndoFinance): akses kepada RWA yang ditoken melalui Swap API;\n\ud83d\udc4d[Beefy](https://x.com/beefyfinance): integrasi API untuk alat ZAP;\n\ud83d\udc4d[LayerZero](https://x.com/LayerZero_Core) + [Cronos](https://x.com/CronosApp): kecairan rentas-rantai;\n\ud83d\udc4dIntegrasi dengan AMM seperti [Uniswap](https://x.com/Uniswap), [SushiSwap](https://x.com/SushiSwap), [Balancer](https://x.com/Balancer) dan lain-lain.\n\nBanyak aplikasi guna mekanik yang sama atau terus integrasi API mereka. Sebab tu lah 1inch ni bukan lagi sekadar agregator, tapi dah jadi pusat infrastruktur DeFi.\n\n**Macam mana nak guna 1inch dalam praktikal?**\n\ud83d\udc4dBuat pertukaran [di platform](https://1inch.com/swap?src=1:ETH&r=ab000374&dst=1:USDC) (sesuai sangat untuk jual drop);\n\ud83d\udc4dGuna 1inch untuk swap rentas-rantai (lebih 13 rangkaian: [Solana](https://1inch.com/swap?src=1:ETH&r=ab000374&dst=501:SOL), [Base](https://1inch.com/swap?src=1:ETH&r=ab000374&dst=8453:ZORA), [Ethereum](https://1inch.com/swap?src=8453:USDC&r=ab000374&dst=1:ETH), [Unichain](https://1inch.com/swap?src=1:ETH&r=ab000374&dst=130:USDC));\n\ud83d\udc4dJejaki aset melalui [1inch Wallet](https://1inch.com/wallet) + [Portfolio](https://1inch.com/portfolio/overview).\n\nKalau anda dalam DeFi, secara tak langsung anda memang dah berinteraksi dengan kecairan yang lalu melalui 1inch.\n\nTapi sekarang anda fahamlah, ia bukan \"DEX yang lain\".\n\nUntuk pengumuman, boleh ikut di [Twitter](https://x.com/1inch).\n\n[**Whitelist**](https://t.me/whitelist1) | [Chat](https://t.me/whitelistchat) |[ Notion](https://whitelist1.media/retrodrop) | [X](https://x.com/Whitelist1Media) |[ Pautan](https://whitelist1.media/ru)",
             "date": "2026-02-18 12:03:50+00:00",
             "message_id": 6696
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAIh4mmVwWPoTxd73Tt-EFXNBcchrTWHAAJNlwACs3GpSNNqmR_NStRPOgQ)[Novig](https://cryptorank.io/ico/novig) **$75M Series B Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Novig](https://cryptorank.io/ico/novig) is a platform that functions as a peer-to-peer (P2P) sports prediction exchange.\n\n\ud83e\udd1d **Investor:**\n[Pantera Capital](https://cryptorank.io/funds/pantera-capital) (Lead)\n\n\ud83c\udff7 **Valuation:** $500M\n\n\ud83d\udc49 cryptorank.io/ico/novig",
+            "translated_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAIh4mmVwWPoTxd73Tt-EFXNBcchrTWHAAJNlwACs3GpSNNqmR_NStRPOgQ)[Novig](https://cryptorank.io/ico/novig) **Pusingan Siri B $75 Juta**\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[Novig](https://cryptorank.io/ico/novig) adalah sebuah platform yang berfungsi sebagai pertukaran ramalan sukan peer-to-peer (P2P).\n\n\ud83e\udd1d **Pelabur:**\n[Pantera Capital](https://cryptorank.io/funds/pantera-capital) (Peneraju)\n\n\ud83c\udff7 **Penilaian:** $500 Juta\n\n\ud83d\udc49 cryptorank.io/ico/novig",
+            "date": "2026-02-18 13:41:02+00:00",
+            "message_id": 3025
         }
     ]
 }
