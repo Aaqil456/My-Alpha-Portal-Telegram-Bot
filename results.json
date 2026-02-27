@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-27T13:44:54.401652",
+    "timestamp": "2026-02-27T14:26:32.572654",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -5784,6 +5784,22 @@
             "translated_text": "**\u26a1\ufe0f Makluman Pusingan Eksklusif \u2014 $500K Berjaya Dikumpul**\n\nPelanggan [Premium plan](https://cryptorank.io/plans?cta=tg_post) kami dah tahu siapa yang sokong perjanjian ni dan pada peringkat mana. Anda tahu tak?\n\nDapatkan akses penuh kepada pecahan pelabur, peringkat pembiayaan, profil projek, dan banyak lagi:\n\n\ud83d\udc49 [cryptorank.io/plans](https://cryptorank.io/plans?cta=tg_post)",
             "date": "2026-02-27 13:30:49+00:00",
             "message_id": 3053
+        },
+        {
+            "channel_link": "https://t.me/moni_talks",
+            "channel_type": "Alpha",
+            "original_text": "**\u0421\u0422\u0410\u0420\u0410\u0422\u0410\u0412\u0410\u041b\u0418!****\ud83d\udc4d****\n\n****https**://www.youtube.com/watch?v=dih92VR37ew\n\nhttps://t.me/moni_talks/11887",
+            "translated_text": "**Dah mula!** \ud83d\udc4d\nhttps://www.youtube.com/watch?v=dih92VR37ew\nhttps://t.me/moni_talks/11887",
+            "date": "2026-02-27 14:01:10+00:00",
+            "message_id": 11888
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/BQACAgIAAxkBAAIjvGmhpxus2q50R_ZvkQ76Aj7w8x_OAALtmAACUusJSYCPopUd34mhOgQ)\ud83d\udea8 JUST IN: [OpenAI](https://cryptorank.io/price/openai-prestocks) raises $110B at a $730B valuation.",
+            "translated_text": "\ud83d\udea8 Berita Terkini: [OpenAI](https://cryptorank.io/price/openai-prestocks) mengumpul $110 bilion dengan nilai $730 bilion.",
+            "date": "2026-02-27 14:16:04+00:00",
+            "message_id": 3054
         }
     ]
 }
