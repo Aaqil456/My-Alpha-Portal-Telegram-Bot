@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-03T15:03:51.792904",
+    "timestamp": "2026-03-03T15:58:39.775624",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -6048,6 +6048,14 @@
             "translated_text": "Bitcoin Depot telah mengambil alih Kutt \u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\nKutt ialah platform pertaruhan sosial peer-to-peer. Kat sini, pengguna boleh bertaruh secara terus antara satu sama lain dengan bayaran awal.\n\n\ud83e\udd1d **Diambil alih oleh:**\nBitcoin Depot\n\n\ud83d\udc49 cryptorank.io/ico/kutt",
             "date": "2026-03-03 14:43:36+00:00",
             "message_id": 3061
+        },
+        {
+            "channel_link": "https://t.me/coinlaunch_space",
+            "channel_type": "Kempen Kripto",
+            "original_text": "\u26a0\ufe0f **ZKsync Lite Is Shutting Down on May 4**\n\n[**ZKsync**](https://coinlaunch.space/projects/zksync/) Lite will be [fully deprecated](https://x.com/zksync/status/2027161869124067400?s=20) as part of a planned and orderly sunset.\n\nThis does NOT affect other ZKsync systems and is simply the final phase of retiring the older infrastructure.\n\n\ud83d\udfe2**What you need to know:**\n\n\u2022 This is not an exploit or emergency\n\u2022 User funds remain safe and recoverable\n\u2022 The ecosystem focus has already shifted to the newer version\n\n__If you ever used ZKsync Lite, make sure to withdraw any remaining funds before the shutdown date.__\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
+            "translated_text": "\u26a0\ufe0f **ZKsync Lite Akan Ditutup Pada 4 Mei**\n\n[**ZKsync**](https://coinlaunch.space/projects/zksync/) Lite akan [dihentikan sepenuhnya](https://x.com/zksync/status/2027161869124067400?s=20) sebagai sebahagian daripada penamatan yang terancang dan teratur.\n\nIni TIDAK menjejaskan sistem ZKsync yang lain dan hanyalah fasa terakhir untuk menghentikan infrastruktur lama.\n\n\ud83d\udfe2**Apa yang anda perlu tahu:**\n\n\u2022 Ini bukan eksploitasi atau kecemasan\n\u2022 Dana pengguna kekal selamat dan boleh didapatkan semula\n\u2022 Fokus ekosistem sudah beralih kepada versi yang lebih baru\n\nJika anda pernah menggunakan ZKsync Lite, pastikan anda mengeluarkan baki dana sebelum tarikh penutupan.\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
+            "date": "2026-03-03 15:50:24+00:00",
+            "message_id": 594
         }
     ]
 }
