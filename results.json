@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-12T12:55:55.084004",
+    "timestamp": "2026-03-12T15:51:27.290727",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -6721,6 +6721,14 @@
             "date": "2026-03-12 12:02:59+00:00",
             "message_id": 6743,
             "note": "SKIPPED_EMPTY_TRANSLATION"
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[Ark Labs](https://cryptorank.io/ico/ark-labs) $5.2M Seed Round\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\nArk is a Bitcoin Layer 2 payments network designed to simplify user experiences while maintaining self-custody.\n\n\ud83e\udd1d **Investors:**\n[Sats Ventures](https://cryptorank.io/funds/sats-ventures), [Ego Death Capital](https://cryptorank.io/funds/egodeathcapital), [Contribution Capital](https://cryptorank.io/funds/contribution-capital), [Epoch VC](https://cryptorank.io/funds/epoch-vc), [Tether](https://cryptorank.io/funds/tether), [Anchorage Digital](https://cryptorank.io/funds/anchorage-digital), and [Ralph Ho](https://cryptorank.io/funds/ralph-ho)\n\n\ud83d\udc49 cryptorank.io/ico/ark-labs",
+            "translated_text": "[Ark Labs](https://cryptorank.io/ico/ark-labs) Pusingan Benih $5.2 Juta\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\nArk adalah rangkaian pembayaran Bitcoin Layer 2 yang direka untuk memudahkan pengalaman pengguna sambil mengekalkan kawalan sendiri.\n\n\ud83e\udd1d **Pelabur:**\n[Sats Ventures](https://cryptorank.io/funds/sats-ventures), [Ego Death Capital](https://cryptorank.io/funds/egodeathcapital), [Contribution Capital](https://cryptorank.io/funds/contribution-capital), [Epoch VC](https://cryptorank.io/funds/epoch-vc), [Tether](https://cryptorank.io/funds/tether), [Anchorage Digital](https://cryptorank.io/funds/anchorage-digital), dan [Ralph Ho](https://cryptorank.io/funds/ralph-ho)\n\n\ud83d\udc49 cryptorank.io/ico/ark-labs",
+            "date": "2026-03-12 14:51:59+00:00",
+            "message_id": 3094
         }
     ]
 }
