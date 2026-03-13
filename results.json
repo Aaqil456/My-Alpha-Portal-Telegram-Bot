@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-13T10:44:26.917696",
+    "timestamp": "2026-03-13T11:18:39.519544",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -6809,6 +6809,14 @@
             "translated_text": "**Kisah Macam Mana Boleh Rugi $50 Juta**\n\nHari ni viral kat X (Twitter) satu [cerita](https://x.com/WatcherGuru/status/2032204615140221318) pasal seorang trader ni, dia decide nak tukar $50M USDT ke $AAVE guna platform lending tu sendiri. Guna telefon bimbit je, dalam satu order.\n\nInterface tu dah tunjuk warning pasal 99% price impact. Senang cerita, harga akan jatuh teruk masa transaksi tu jalan. Tapi peliknya, mamat yang nak tukar duit ni tak kisah pun. Dia tick je kotak tu, lepas tu proceed.\n\n$50 juta [dihantar](https://etherscan.io/tx/0x9fa9feab3c1989a33424728c23e6de07a40a26a98ff7ff5139f3492ce430801f). Dapat 331 AAVE je, yang nilainya lebih kurang ~$37,000 \ud83d\udc4d\n\nDia ni betul-betul trader ke?\n\n**Mana pergi baki $49.9M tu?** Duit tu diagihkan antara MEV-bot, yang pintas transaksi sebelum confirm dan ambil lebih kurang $10M, dan block builder yang dapat $27-34M dalam bentuk yuran. Baki selebihnya pula pergi ke LP (Liquidity Providers) dan seller yang jual AAVE pada harga tinggi masa kekecohan tu.\n\nMemanglah Encik Stani (CEO Aave) dah keluarkan [kenyataan](https://x.com/StaniKulechov/status/2032193345414664659), dia cakap: \"Dah tulis dah, jangan masuk sini, nanti kena telan!\". Ini kalau nak mudahkan cerita. Pendek kata, slippage tu dah nampak, checkbox pun kena tick. Kami lepas tangan. Team Aave, memanglah, ada bertimbang rasa sikit dan akan pulangkan $600K dari yuran yang dikutip dari transaksi ni. Tapi rasanya taklah gembirakan sangat 'genius swap' kita ni.\n\n**Apa point cerita ni?** Kalau dah ada tulis pasal price impact, takkan tak boleh fikir baik jangan buat?\n\nDalam DeFi ni, kau sendiri yang bertanggungjawab atas tindakan kau. Memanglah, boleh je cakap: 'Aave sepatutnya tak bagi pun buat macam ni'. Tapi, come on lah, warning dah ada. Checkbox dah tick. Semua berfungsi macam biasa.\n\nSatu lagi yang jadi bahan lawak, trader ni simpan $50 juta dalam telefon je. Kau ni siapa, hero?\n\n__Jaga-jaga dengan aset korang. Baca betul-betul apa yang korang sign__ \ud83d\udc4a\n\n[Talks](https://t.me/moni_talks) | [Chat](https://t.me/moni_talks_chat) | [GH Lobby [alpha]](https://t.me/gemhunterslobby) | [Links](https://moni-alpha.notion.site/projects-instruments-list)",
             "date": "2026-03-13 10:03:49+00:00",
             "message_id": 11924
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[Eightco Holdings](https://cryptorank.io/ico/eightco-holdings) $125M Post-IPO Round\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Eightco Holdings](https://cryptorank.io/ico/eightco-holdings) is a company focused on digital identity and authentication technologies.\n\n\ud83e\udd1d **Investors:**\n[BitMine](https://cryptorank.io/funds/bitmine) (Lead), [ARK Invest](https://cryptorank.io/funds/ark-investment-management), and [Payward](https://cryptorank.io/funds/payward)\n\n\ud83d\udc49 cryptorank.io/ico/eightco-holdings",
+            "translated_text": "[Eightco Holdings](https://cryptorank.io/ico/eightco-holdings) Pusingan Selepas IPO $125 Juta\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[Eightco Holdings](https://cryptorank.io/ico/eightco-holdings) adalah sebuah syarikat yang menumpukan pada teknologi identiti digital dan pengesahan.\n\n\ud83e\udd1d **Pelabur:**\n[BitMine](https://cryptorank.io/funds/bitmine) (Peneraju), [ARK Invest](https://cryptorank.io/funds/ark-investment-management), dan [Payward](https://cryptorank.io/funds/payward)\n\n\ud83d\udc49 cryptorank.io/ico/eightco-holdings",
+            "date": "2026-03-13 10:50:00+00:00",
+            "message_id": 3099
         }
     ]
 }
