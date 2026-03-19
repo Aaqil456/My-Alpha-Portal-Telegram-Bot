@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-19T12:43:19.031234",
+    "timestamp": "2026-03-19T13:56:31.724204",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -7161,6 +7161,14 @@
             "translated_text": "**Anda rugi pada swap dan mungkin tak**[ ](https://img1.teletype.in/files/04/c8/04c8fc42-ad16-424f-a552-1b8bf5ae24e2.jpeg)**perasan pun ****\ud83d\udc4d**\n\nSelalunya, orang rugi duit bukan sebab pasaran tak elok, salah masuk posisi, atau sebab lain, tapi sebab cara mereka buat swap.\n\n**Kesilapan paling mahal:**\n\n**1. Tak bandingkan kadar:\n**\nKebanyakan orang cuma buat swap macam tu je dekat salah satu DEX.\nTapi harga boleh beza 1\u20133% (kadang-kadang lebih lagi).\n\n**Penyelesaian**: guna [1inch](https://1inch.com/swap?src=1:ETH&r=ab000374&dst=1:USDC), yang akan cari laluan terbaik.\n\n**2. Abaikan slippage:\n**\nAnda set ikut *default* dan dapat harga yang lagi teruk.\nTerutamanya untuk token yang *volatile* atau tak *liquid*.\n\n**Hasilnya**: duit lesap hampir setiap kali buat swap.\n\n**Cara kawal slippage: \n**\ud83d\udc4d0.1%\u20130.5%: untuk pasangan utama (ETH / USDT / USDC);\n\ud83d\udc4d0.5%\u20131%: untuk token yang ada *liquidity*;\n\ud83d\udc4d1%\u20133%+: untuk aset yang tak *liquid* atau *volatile*. \n\n[1inch](https://1inch.com/swap?src=1:ETH&r=ab000374&dst=1:USDC) dah automatik pecahkan transaksi kepada beberapa laluan dan *pool* untuk kurangkan *slippage* dan cari kadar yang lebih baik.\n\n**3. Tak ambil kira laluan\n**\nSatu swap \u2260 satu transaksi.\nKadang-kadang, lagi untung kalau lalu beberapa *pool*.\nBezanya mungkin cuma beberapa peratus, tapi kalau jumlah besar, memang akan terasa.\n\n**Contoh**: daripada laluan terus ETH - DAI melalui satu *pool*, lagi untung kalau ETH - USDC - DAI.\n\n**Penyelesaian**: guna [1inch](https://1inch.com/swap?src=1:ETH&r=ab000374&dst=1:USDC), yang akan pilih laluan paling optimum sendiri.\n\nSetiap tindakan kita ada kesannya, dalam jangka masa panjang, semua swap yang tak menjadi tu akan terkumpul jadi jumlah yang agak besar. \n\nJadi, janganlah rugikan diri sendiri duit lebih, pasaran pun memang akan buat macam tu juga. \n\n[**Whitelist**](https://t.me/whitelist1) | [Chat](https://t.me/whitelistchat) |[ Notion](https://whitelist1.media/retrodrop) | [X](https://x.com/Whitelist1Media) |[ Pautan](https://whitelist1.media/ru)",
             "date": "2026-03-19 12:01:53+00:00",
             "message_id": 6757
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[Avalanche](https://cryptorank.io/ico/avalanche) Funding Round\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Avalanche](https://cryptorank.io/ico/avalanche) is an EVM-compatible layer1 blockchain consisting of three subnets.\n\n\ud83e\udd1d **Investor:** [Animoca Brands](https://cryptorank.io/funds/animoca-brands)",
+            "translated_text": "[Avalanche](https://cryptorank.io/ico/avalanche) Pusingan Pendanaan\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[Avalanche](https://cryptorank.io/ico/avalanche) adalah sebuah blockchain layer1 yang serasi dengan EVM, terdiri daripada tiga subnet.\n\n\ud83e\udd1d **Pelabur:** [Animoca Brands](https://cryptorank.io/funds/animoca-brands)",
+            "date": "2026-03-19 13:35:09+00:00",
+            "message_id": 3115
         }
     ]
 }
