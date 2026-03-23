@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-23T18:02:35.855491",
+    "timestamp": "2026-03-23T21:04:17.136393",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -7401,6 +7401,14 @@
             "translated_text": "**\ud83d\udd25 Pendanaan kripto semakin rancak pada bulan Mac**\n\nPendanaan mencecah kira-kira $3.8 bilion \u2013 kembali ke paras musim panas dan yang tertinggi dalam 4 bulan terakhir. Tapi, jumlah pusingan turun kira-kira 30%.\n\nPelaburan yang lebih besar dan fokus.\n\n\ud83d\udc49 cryptorank.io/funding-analytics",
             "date": "2026-03-23 18:00:01+00:00",
             "message_id": 3128
+        },
+        {
+            "channel_link": "https://t.me/coinlaunch_space",
+            "channel_type": "Kempen Kripto",
+            "original_text": "\u274c [**Resolv Labs**](https://coinlaunch.space/projects/resolv-labs/)** has been exploited **\n\nResolv [suffered](https://x.com/ResolvLabs/status/2035581976514609437) a major exploit - an attacker used ~$100\u2013200K in USDC to mint ~**80M ****$USR** (400\u2013500x over-mint).\n\nThe funds were dumped across DEXs (Curve, KyberSwap, Velodrome), extracting ~$25M due to liquidity limits. A large share has already been converted to ETH, with wallets tracked by PeckShield and others.\n\n\u2022 TVL dropped from **$144M to $118M**\n\u2022 $RESOLV down **~10\u201315%**\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
+            "translated_text": "\u274c [**Resolv Labs**](https://coinlaunch.space/projects/resolv-labs/)** telah dieksploitasi **\n\nResolv [mengalami](https://x.com/ResolvLabs/status/20355819765144609437) eksploitasi besar \u2014 seorang penyerang menggunakan kira-kira $100\u2013200K dalam USDC untuk mencetak kira-kira **80M ****$USR** (400\u2013500 kali ganda cetakan berlebihan).\n\nDana tersebut telah dijual secara besar-besaran merentasi pelbagai DEX (Curve, KyberSwap, Velodrome), mengeluarkan kira-kira $25M disebabkan had kecairan. Sebahagian besar daripadanya telah pun ditukar kepada ETH, dengan dompet yang dijejaki oleh PeckShield dan pihak lain.\n\n\u2022 TVL jatuh daripada **$144M kepada $118M**\n\u2022 $RESOLV turun **kira-kira 10\u201315%**\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
+            "date": "2026-03-23 20:59:58+00:00",
+            "message_id": 607
         }
     ]
 }
