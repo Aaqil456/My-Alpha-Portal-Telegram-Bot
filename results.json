@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-31T15:36:11.666684",
+    "timestamp": "2026-03-31T22:57:00.443570",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -7977,6 +7977,14 @@
             "translated_text": "\ud83d\udfe1 **Binance tengah [uji](https://www.theblock.co/post/395817/binance-tests-prediction-market-feature) pasaran ramalan dalam aplikasi dia**\n\nCiri ni sekarang dalam fasa beta dan akan dikuasakan oleh penyedia pihak ketiga. Binance dah bekerjasama dengan [Predict.fun](https://coinlaunch.space/projects/predictfun/) untuk integrasikan pasaran ramalan ke dalam Binance Wallet.\n\nPengguna perlu buka akaun ramalan khas, berasingan daripada akaun dagangan spot mereka, untuk berdagang kontrak acara.\n\n\ud83d\udcac __Ciri ni akan dikumpul dari penyedia luar, bukan dibina terus dalam enjin utama Binance. Belum ada tarikh pelancaran yang pasti, dan ketersediaan di pelbagai bidang kuasa masih tak jelas.__\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
             "date": "2026-03-31 14:13:55+00:00",
             "message_id": 612
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAIqB2nMTpI4ok5Ps00tsn-M0k7SQZkhAALkE2sbmOlpSv2vUBc3owfIAQADAgADeQADOgQ)BREAKING: OpenAI has officially raised $122B in fresh capital at an $852B post-money valuation\n\nThat's more than Nike, McDonald's, and Netflix \u2014 COMBINED.\ud83d\ude80\ud83d\udcc8",
+            "translated_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAIqB2nMTpI4ok5Ps00tsn-M0k7SQZkhAALkE2sbmOlpSv2vUBc3owfIAQADAgADeQADOgQ)TERKINI: OpenAI dah berjaya kumpul $122 bilion modal baru, dan sekarang nilai syarikat mereka dah jadi $852 bilion lepas pelaburan ni.\nJumlah tu lagi besar dari Nike, McDonald's, dan Netflix \u2014 DIGABUNGKAN.\ud83d\ude80\ud83d\udcc8",
+            "date": "2026-03-31 22:45:45+00:00",
+            "message_id": 3157
         }
     ]
 }
