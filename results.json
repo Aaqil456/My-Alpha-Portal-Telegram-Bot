@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-07T16:07:42.406888",
+    "timestamp": "2026-04-07T17:15:27.418938",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -8441,6 +8441,14 @@
             "translated_text": "**Polymarket**[** **](https://img1.teletype.in/files/c5/f6/c5f61a23-5753-44d9-88b7-6209707fffce.jpeg)**\u2014 Mana Hilangnya $20 dari Urus Niaga?** \ud83d\udc4d\n\nRamai masih ingat komisen diambil dari kemenangan anda, tapi sebenarnya tak.\n\nHari ni kita nak fahamkan macam mana komisen berfungsi [di Polymarket](https://polymarket.com/?r=whitelist1), supaya kita tahu keseluruhan mekanismenya.\n\n[Pembelian](https://polymarket.com/?r=whitelist1)**:\n****\ud83d\udc4d**Anda beli 400 'share' pada harga 33\u00a2;\n**\ud83d\udc4d**Jangkaan: 400 \u00d7 0.33 = $132;\n**\ud83d\udc4d**Tapi ada yuran (fee): formula: C \u00d7 feeRate \u00d7 p \u00d7 (1 \u2212 p) | [contoh dalam tweet](https://x.com/jasperbellx/status/2040790621250572299).\n\nJadi, kita dapat 400 \u00d7 0.072 \u00d7 0.33 \u00d7 0.67 \u2248 $7.31.\n\n**Apa yang Berlaku?**\n\nAnda TIDAK bayar lebih, komisen tu makan sebahagian dari posisi anda. Maksudnya, bila anda bayar ~$132, anda dapat kurang 'share' (~392\u2013395).\n\n[Pembayaran](https://polymarket.com/?r=whitelist1)**:\n****\ud83d\udc4d**Setiap 'share' = $1 kalau menang;\n**\ud83d\udc4d**Kalau anda betul-betul ada 392 'share', anda akan dapat $392.\n\nOrang ramai nampak 400 'share' dan 'To win $380', lepas tu mereka tertanya-tanya \"mana $20 saya?\".\n\nKomisen dah diambil kira masa anda masuk, anda cuma dapat posisi yang tak sebaik yang anda sangka. Polymarket TIDAK ambil peratusan dari kemenangan, semuanya berlaku masa urus niaga.\n\nJadi, kita dah ada keuntungan yang dipotong awal-awal lagi, bukan masa keluar. Ini penting untuk faham 'risk/reward'.\n\nNak kami teruskan lagi post-post pendidikan pasal Polymarket ni? Tunjukkan minat anda dengan reaksi \ud83d\udc4d\n\n[**Whitelist**](https://t.me/whitelist1) | [Chat](https://t.me/whitelistchat) |[ Notion](https://whitelist1.media/retrodrop) | [X](https://x.com/Whitelist1Media) |[ Pautan](https://whitelist1.media/ru)",
             "date": "2026-04-07 15:05:22+00:00",
             "message_id": 6794
+        },
+        {
+            "channel_link": "https://t.me/coinlaunch_space",
+            "channel_type": "Kempen Kripto",
+            "original_text": "\ud83d\udd14[ **Fluent Labs**](https://coinlaunch.space/projects/fluent-labs/)** ICO on Sonar**\n\nFluent has [announced](https://x.com/fluentxyz/status/2041140826227810371?s=20) an ICO on Sonar. The sale starts today and will last for 7 days.\n\n\u23f0 **Details:\n**\nTicker: $BLEND\nPrice: $0.1\nFDV: $100M\nRaising: $1M by selling 1% of the token supply\nUnlock: 100% at TGE\n\n__The ICO will take place on the Sonar platform in an oversubscription format.__\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
+            "translated_text": "\ud83d\udd14[ **Fluent Labs**](https://coinlaunch.space/projects/fluent-labs/)** ICO di Sonar**\n\nFluent dah [umumkan](https://x.com/fluentxyz/status/2041140826227810371?s=20) ICO di Sonar. Jualan ni bermula hari ni dan akan berlangsung selama 7 hari.\n\n\u23f0 **Butiran:**\n\nTicker: $BLEND\nHarga: $0.1\nFDV: $100 Juta\nSasaran Dana: $1 Juta dengan menjual 1% daripada bekalan token\nBuka Kunci: 100% semasa TGE\n\n__ICO ni akan diadakan di platform Sonar dalam format oversubscription.__\n\n\ud83d\udcb5 [**CoinLaunch**](https://t.me/coinlaunch_space)** | ****\ud83d\udcb5**** **[**CoinLaunch**](https://x.com/CoinLaunchSpace)",
+            "date": "2026-04-07 16:25:03+00:00",
+            "message_id": 617
         }
     ]
 }
