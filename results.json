@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-08T14:16:07.949766",
+    "timestamp": "2026-04-08T15:46:39.123091",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -8524,6 +8524,15 @@
             "translated_text": "",
             "date": "2026-04-08 13:25:26+00:00",
             "message_id": 796,
+            "note": "SKIPPED_EMPTY_TRANSLATION"
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAIrcmnWbcvinBecLucI15HMt7hq3DFhAALTGGsbj-uwSkAbBjpy3zdbAQADAgADeQADOwQ)[Libeara](https://cryptorank.io/ico/libeara) **Funding Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Libeara](https://cryptorank.io/ico/libeara) is an tokenisation platform for regulated funds, government bonds, and security tokens with built-in compliance and multi-chain support.\n\n\ud83e\udd1d **Investors:**\n[GSR](https://cryptorank.io/funds/gsr) (Lead), [Monk\u2019s Hill Ventures](https://cryptorank.io/funds/monks-hill-ventures), and [AlloyX](https://cryptorank.io/funds/alloyx)\n\n\ud83d\udc49 cryptorank.io/ico/libeara",
+            "translated_text": "",
+            "date": "2026-04-08 15:01:55+00:00",
+            "message_id": 3183,
             "note": "SKIPPED_EMPTY_TRANSLATION"
         }
     ]
