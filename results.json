@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-08T09:19:45.798443",
+    "timestamp": "2026-04-08T10:35:21.672589",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -8490,6 +8490,15 @@
             "translated_text": "",
             "date": "2026-04-08 09:02:32+00:00",
             "message_id": 11988,
+            "note": "SKIPPED_EMPTY_TRANSLATION"
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAIrTmnWKNj01MOvJQaeSCvfFGRMQpvVAAKNFmsbj-uwSlu2QWXfqP6XAQADAgADeQADOwQ)[Sol Strategies](https://cryptorank.io/funds/sol-strategies) **has acquired Darklake** \u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Darklake](https://cryptorank.io/ico/darklake) is a ZK infrastructure on Solana.\n\n\ud83e\udd1d **Acquired by:**\nSOL Strategies is offering SOL tokens for remuneration and provides investors with the opportunity to invest in Solana.\n\n\ud83d\udc49 https://cryptorank.io/ico/darklake",
+            "translated_text": "",
+            "date": "2026-04-08 10:08:29+00:00",
+            "message_id": 3181,
             "note": "SKIPPED_EMPTY_TRANSLATION"
         }
     ]
