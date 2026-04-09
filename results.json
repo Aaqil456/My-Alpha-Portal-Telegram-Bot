@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-09T09:00:49.910585",
+    "timestamp": "2026-04-09T10:15:19.491609",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -8568,6 +8568,14 @@
             "date": "2026-04-09 07:04:09+00:00",
             "message_id": 6798,
             "note": "SKIPPED_EMPTY_TRANSLATION"
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAIrk2nXcOaLSy0ZBKO1VmYQZANLoiN_AALHImsbj-u4Si4Cse7xzWm0AQADAgADeQADOwQ)[Splyce Finance](https://cryptorank.io/ico/splyce-finance) **Strategic Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Splyce Finance](https://cryptorank.io/ico/splyce-finance) is a DeFi protocol offering fixed-rate lending vaults and a yield-bearing stablecoin, both backed by real-world asset cash flows.\n\n\ud83e\udd1d **Investors:**\n[Sui Foundation](https://cryptorank.io/funds/sui-foundation), [Lucid Drakes](https://cryptorank.io/funds/lucid-drakes), [Solana Foundation](https://cryptorank.io/funds/solana-foundation), [Stellar Development Foundation](https://cryptorank.io/funds/stellardf), [Sarson Funds](https://cryptorank.io/funds/sarson-funds), and [Kin Capital](https://cryptorank.io/funds/kin-capital)\n\n\ud83d\udc49 cryptorank.io/ico/splyce-finance",
+            "translated_text": "[Splyce Finance](https://cryptorank.io/ico/splyce-finance) **Pusingan Strategik**\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[Splyce Finance](https://cryptorank.io/ico/splyce-finance) adalah protokol DeFi yang menawarkan peti simpanan pinjaman kadar tetap dan stablecoin yang menjana hasil, kedua-duanya disokong oleh aliran tunai aset dunia sebenar.\n\n\ud83e\udd1d **Pelabur:**\n[Sui Foundation](https://cryptorank.io/funds/sui-foundation), [Lucid Drakes](https://cryptorank.io/funds/lucid-drakes), [Solana Foundation](https://cryptorank.io/funds/solana-foundation), [Stellar Development Foundation](https://cryptorank.io/funds/stellardf), [Sarson Funds](https://cryptorank.io/funds/sarson-funds), dan [Kin Capital](https://cryptorank.io/funds/kin-capital)\n\n\ud83d\udc49 cryptorank.io/ico/splyce-finance",
+            "date": "2026-04-09 09:27:49+00:00",
+            "message_id": 3185
         }
     ]
 }
