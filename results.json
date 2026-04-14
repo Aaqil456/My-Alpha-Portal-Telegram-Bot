@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-14T12:13:12.200140",
+    "timestamp": "2026-04-14T14:10:47.428303",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -8815,6 +8815,14 @@
             "date": "2026-04-14 12:04:34+00:00",
             "message_id": 6810,
             "note": "SKIPPED_EMPTY_TRANSLATION"
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAIsSmneNmYEXTMpbx6Dt9_of6qo-GIrAALhFWsbfpf5SjMGu_MzTx_XAQADAgADeQADOwQ)[Payward](https://cryptorank.io/ico/payward) **$200M Strategic Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Payward](https://cryptorank.io/ico/payward) is the parent company of Kraken and other financial infrastructure products.\n\n\ud83e\udd1d **Investor:**\n[Deutsche Borse](https://cryptorank.io/funds/deutsche-borse)\n\n\ud83d\udc49 cryptorank.io/ico/payward",
+            "translated_text": "[Payward](https://cryptorank.io/ico/payward) Pusingan Strategik $200 Juta \u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[Payward](https://cryptorank.io/ico/payward) ialah syarikat induk kepada Kraken dan produk infrastruktur kewangan lain.\n\n\ud83e\udd1d **Pelabur:**\n[Deutsche Borse](https://cryptorank.io/funds/deutsche-borse)\n\n\ud83d\udc49 cryptorank.io/ico/payward",
+            "date": "2026-04-14 12:46:26+00:00",
+            "message_id": 3196
         }
     ]
 }
