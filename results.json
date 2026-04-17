@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-17T14:53:09.176912",
+    "timestamp": "2026-04-17T16:45:50.488303",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -9026,6 +9026,15 @@
             "translated_text": "",
             "date": "2026-04-17 14:03:57+00:00",
             "message_id": 12006,
+            "note": "SKIPPED_EMPTY_TRANSLATION"
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAItAmniXPgoxBFKKPrygZy9Sx_aMeT_AALeFmsbdwoRSw8R-dMRzhaqAQADAgADeQADOwQ)[Payward](https://cryptorank.io/funds/payward) **has acquired **[Bitnomial](https://cryptorank.io/ico/bitnomial) \u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Bitnomial](https://cryptorank.io/ico/bitnomial) is a U.S.-based regulated cryptocurrency exchange offering futures and options trading.\n\n\ud83e\udd1d **Acquired by:**\n[Payward](https://cryptorank.io/funds/payward) is the parent company of Kraken. It provides services for trading, payments, and digital asset management on a global scale.\n\n\ud83d\udc49 https://cryptorank.io/ico/bitnomial",
+            "translated_text": "",
+            "date": "2026-04-17 16:17:23+00:00",
+            "message_id": 3210,
             "note": "SKIPPED_EMPTY_TRANSLATION"
         }
     ]
