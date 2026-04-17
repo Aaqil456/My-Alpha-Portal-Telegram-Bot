@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-17T10:16:24.188420",
+    "timestamp": "2026-04-17T11:14:01.575949",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -8984,6 +8984,14 @@
             "date": "2026-04-17 09:18:30+00:00",
             "message_id": 12003,
             "note": "SKIPPED_EMPTY_TRANSLATION"
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAIs42niCxpvp8ZgRu--Nte6myEKq3dkAAJTFWsbdwoRSxOx68H151OHAQADAgADeQADOwQ)[KieDex](https://cryptorank.io/ico/kiedex) **$3.5M Seed Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[KieDex](https://cryptorank.io/ico/kiedex) is a crypto futures trading platform with a trade-to-earn model.\n\n\ud83e\udd1d **Investors:**\n[Marqel Capital](https://cryptorank.io/funds/marqel-capital) (Lead), [Three Point Capital](https://cryptorank.io/funds/three-point), [CSP DAO](https://cryptorank.io/funds/csp-dao), [Devmons](https://cryptorank.io/funds/devmons-gg), [Caviar](https://cryptorank.io/funds/caviar), and [Hidden Street Capital](https://cryptorank.io/funds/hidden-street-capital)\n\n\ud83d\udc49 cryptorank.io/ico/kiedex",
+            "translated_text": "[KieDex](https://cryptorank.io/ico/kiedex) **Pusingan Benih $3.5 Juta**\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[KieDex](https://cryptorank.io/ico/kiedex) adalah platform dagangan niaga hadapan kripto dengan model 'trade-to-earn'.\n\n\ud83e\udd1d **Pelabur:**\n[Marqel Capital](https://cryptorank.io/funds/marqel-capital) (Peneraju), [Three Point Capital](https://cryptorank.io/funds/three-point), [CSP DAO](https://cryptorank.io/funds/csp-dao), [Devmons](https://cryptorank.io/funds/devmons-gg), [Caviar](https://cryptorank.io/funds/caviar), dan [Hidden Street Capital](https://cryptorank.io/funds/hidden-street-capital)\n\n\ud83d\udc49 cryptorank.io/ico/kiedex",
+            "date": "2026-04-17 10:28:22+00:00",
+            "message_id": 3208
         }
     ]
 }
