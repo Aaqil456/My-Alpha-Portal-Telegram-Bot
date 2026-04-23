@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T16:56:54.612935",
+    "timestamp": "2026-04-23T18:04:44.069222",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -9312,6 +9312,15 @@
             "translated_text": "[RealGo](https://cryptorank.io/ico/realgo) **Pusingan Dana $3.5 Juta**\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\n[RealGo](https://cryptorank.io/ico/realgo) adalah sebuah permainan AR dengan elemen Web3 di mana pemain memburu watak meme, mengumpul token dan bertarung dalam PvP.\n\n\ud83e\udd1d **Pelabur:**\n[Animoca Brands](https://cryptorank.io/funds/animoca-brands), [x21 Digital](https://cryptorank.io/funds/x-21-digital), [Cogitent Ventures](https://cryptorank.io/funds/cogitent-venture), [Becker Ventures](https://cryptorank.io/funds/becker-ventures), dan [Notch Ventures](https://cryptorank.io/funds/notch-ventures)\n\n\ud83d\udc49 cryptorank.io/ico/realgo",
             "date": "2026-04-23 15:55:18+00:00",
             "message_id": 3215
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAItZWnqUclww51RSu7uBYJb1TKD1ArRAAIxE2sbAAFuWEvoVmCULrnd-gEAAwIAA3kAAzsE)[ILITY](https://cryptorank.io/ico/ility) **$2M Funding Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[ILITY](https://cryptorank.io/ico/ility) is an L1 blockchain for private cross-chain data verification using zero-knowledge proofs.\n\n\ud83e\udd1d **Investors:**\n[Animoca Brands](https://cryptorank.io/funds/animoca-brands) and [DuckDAO](https://cryptorank.io/funds/duck-dao)\n\n\ud83c\udff7 **Valuation:** $21M\n\n\ud83d\udc49 cryptorank.io/ico/ility",
+            "translated_text": "",
+            "date": "2026-04-23 18:00:02+00:00",
+            "message_id": 3216,
+            "note": "SKIPPED_EMPTY_TRANSLATION"
         }
     ]
 }
