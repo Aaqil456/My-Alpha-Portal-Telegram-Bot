@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T13:04:42.485736",
+    "timestamp": "2026-04-30T15:21:55.110180",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -9661,6 +9661,14 @@
             "date": "2026-04-30 12:59:57+00:00",
             "message_id": 6845,
             "note": "SKIPPED_EMPTY_TRANSLATION"
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAIuR2nzbjt6ipMEN9P_ErWwSVYXwmehAAJoGGsb4JiZS86XvZC_VktLAQADAgADeQADOwQ)[legend.trade](https://cryptorank.io/ico/legend-trade) **$3.5M Seed Round**\u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\nLegend is a platform for social trading that allows users to compete in on-chain markets.\n\n\ud83e\udd1d **Investors:**\n[Electric Capital](https://cryptorank.io/funds/electric-capital) (Lead), [GSR](https://cryptorank.io/funds/gsr), and [Amber Group](https://cryptorank.io/funds/amber-group)\n\n\ud83d\udc49 cryptorank.io/ico/legend-trade",
+            "translated_text": "[\u200b\u200b](http://telegraph.controller.bot/files/7734246402/AgACAgIAAxkBAAIuR2nzbjt6ipMEN9P_ErWwSVYXwmehAAJoGGsb4JiZS86XvZC_VktLAQADAgADeQADOwQ)[legend.trade](https://cryptorank.io/ico/legend-trade) **Pusingan Benih $3.5 Juta**\u26a1\ufe0f\n\n\ud83d\udcd1 **Tentang:**\nLegend adalah platform dagangan sosial yang membolehkan pengguna bersaing dalam pasaran on-chain.\n\n\ud83e\udd1d **Pelabur:**\n[Electric Capital](https://cryptorank.io/funds/electric-capital) (Peneraju), [GSR](https://cryptorank.io/funds/gsr), dan [Amber Group](https://cryptorank.io/funds/amber-group)\n\n\ud83d\udc49 cryptorank.io/ico/legend-trade",
+            "date": "2026-04-30 15:05:21+00:00",
+            "message_id": 3236
         }
     ]
 }
